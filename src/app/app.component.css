@@ -1,0 +1,29 @@
+.container {
+  display: flex;
+  width: 100%;
+  justify-content: space-evenly;
+  height: calc(100vh - 37px);
+}
+
+.random {
+  width: 50%;
+
+}
+
+.joke {
+  border: 1px solid black;
+  height: 24px;
+  margin: 16px;
+  cursor: pointer;
+  display: flex;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.favorites {
+  width: 50%;
+}
+
+
+:host {
+}

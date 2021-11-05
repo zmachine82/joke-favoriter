@@ -1,1 +1,5 @@
 /* You can add global styles to this file, and also import other style files */
+body {
+  background-blend-mode: screen;
+  background: rgba(255, 255, 255, 0.75) url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSiP3q97Qsa2QMPaRJpARvls8KRTZl0kw3nGg&usqp=CAU") repeat;
+}
